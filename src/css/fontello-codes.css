@@ -1,0 +1,6 @@
+
+.icon-globe:before { content: '\e800'; } /* '' */
+.icon-login:before { content: '\e801'; } /* '' */
+.icon-search:before { content: '\e802'; } /* '' */
+.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-user-plus:before { content: '\f234'; } /* '' */

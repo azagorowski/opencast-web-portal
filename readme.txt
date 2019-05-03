@@ -1,0 +1,2 @@
+	Projekt mo¿e zostaæ uruchomiony za pomoc¹ pakietu XAMPP poprzez skopiowanie zawartosci folderu bin do folderu "htdocs" w miejscu instalacji pakietu XAMPP (Przyk³adowo: C:\xampp\htdocs\GO) oraz po w³aczeniu modu³ów Apache oraz MySQL. Nastêpnym krokiem jest wpisanie adresu http://localhost/GO .
+	Dodatkowo powinna zostaæ zaimportowana baza danych users.sql do http://localhost/phpmyadmin aby umo¿liwiœæ rejestracjê oraz logowanie na portalu.
