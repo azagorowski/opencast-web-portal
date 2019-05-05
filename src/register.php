@@ -147,8 +147,11 @@
 	</header>
 	<!-- Koniec sekcji header -->
 	<section class="banner">
-		<div class="inner-banner"><!-- wrapper -->
-			<img src="img/mine_banner.png">
+		<div class="inner-banner">
+			<img src="img/mine_banner.PNG">
+		</div>
+		<div class="large-inner-banner">
+			<img src="img/mine_banner_large.jpg">
 		</div>
 	</section>
 	<!-- Koniec sekcji banner -->

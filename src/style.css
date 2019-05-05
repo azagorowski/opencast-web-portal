@@ -70,6 +70,7 @@ header {
 	height: 60px;
 	background: url(img/banner.png) no-repeat center;
 }
+
 /*Nawigacja*/
 nav {
 	float: right;
@@ -117,7 +118,7 @@ nav ul li a{
 	background-color: #000000;
 }
 .inner-banner {
-	max-width: 1400px;
+	max-width: 1440px;
 	width: 100%; /*wysrodkowanie obrazka*/
 	margin: 0 auto;
 }
@@ -313,9 +314,6 @@ input[type=submit]:hover
 		margin: 15px 0 20px 20px;
 		background: url(img/mobile.png) no-repeat center;
 	}
-	.inner-banner {
-		/* display: none; */
-	}
 	#menu-icon{
 		display: inline-block;
 	}
@@ -368,5 +366,22 @@ input[type=submit]:hover
 	.second-aside {
 		/*display: none;*/
 		width: 100%;
+	}
+}
+
+@media screen and (min-width: 1440px) {
+	.inner-banner {
+		display: none;
+	}
+	#article-3-3 {
+		display: none;
+	}
+	#third-article {
+		width: 100%;
+	}
+}
+@media screen and (max-width: 1440px) {
+	.large-inner-banner {
+		display: none;
 	}
 }
