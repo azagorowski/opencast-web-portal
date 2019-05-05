@@ -57,7 +57,7 @@
 		</article>
 		<aside id="first-article">
 		<h2>O PORTALU.</h2>
-		<p>Portal o tematyce górnictwa odkrywkowego wykonany w celach niekomercyjnych przy zastosowaniu technologii: JavaScript, PHP, MySQL, HTML5, CSS3. <br/> <br/> <br/> <br/> </p>
+		<p>Portal o tematyce górnictwa odkrywkowego wykonany w celach niekomercyjnych przy zastosowaniu technologii: JavaScript, PHP, MySQL, HTML5, CSS3. 
 		</aside>
 	</section>
 	<section class="inner-wrapper-2">
