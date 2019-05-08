@@ -7,6 +7,12 @@
 	<link rel="stylesheet" href="css/fontello.css"> <!-- zrodlo fontów -->
 	<link href="css/font-awsome.min.css" rel="stylesheet"/>
 	<link rel="shortcut icon" type="image/png" href="img/mineicon.png"/>
+	
+	<!-- Styles and scripts for slider -->
+	<link href="https://fonts.googleapis.com/css?family=Nova+Mono" rel="stylesheet">
+	<link rel="stylesheet" href="slider-ib/style-ib.css" type="text/css" />
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>	
+	<script src="slider-ib/script-ib.js"></script>
 </head>
 <body>
 	<header>
@@ -53,7 +59,17 @@
 <!-- Koniec małych sekcji -->
 	<section class="inner-wrapper">
 		<article id="article-1-3">
-			<img src="img/om-1.png">
+			<!-- <img src="img/om-1.png"> -->
+			<div class="container">
+				<div id="slider">
+					<ul class="slides">
+						<li class="slide slide1"></li>
+						<li class="slide slide2"></li>
+						<li class="slide slide3"></li>
+						<li class="slide slide1"></li>
+					</ul>
+				</div>
+			</div>
 		</article>
 		<aside id="first-article">
 		<h2>O PORTALU.</h2>
