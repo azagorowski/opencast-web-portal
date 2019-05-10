@@ -122,6 +122,19 @@ nav ul li a{
 	width: 100%; /*wysrodkowanie obrazka*/
 	margin: 0 auto;
 }
+
+/*Zmiana rozmiaru obrazka po najechaniu kursorem*/
+.large-inner-banner {
+		overflow: hidden;
+	}
+.large-inner-banner img{
+		transition: 3s ;
+	}
+.large-inner-banner:hover img{
+		transform: scale(1.02);
+	}
+/* */
+
 .small-section-4{
 	width: 25%;
 	float: left;
