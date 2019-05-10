@@ -213,6 +213,17 @@ aside {
 	float: left;
 	text-align: center;
 }
+/*Zmiana rozmiaru obrazka po najechaniu kursorem*/
+.second-aside {
+		overflow: hidden;
+	}
+.second-aside img{
+		transition: 3s ;
+	}
+.second-aside:hover img{
+		transform: scale(1.1);
+	}
+/* */
 footer {
 	background-color: #000000;
 	width: 100%;
