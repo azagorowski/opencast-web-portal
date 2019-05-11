@@ -22,7 +22,7 @@
 				<a href="#" id="menu-icon"></a>
 				<ul> <!-- unorder list -->
 					<li><a href="index.php" class="current">Strona Główna</a></li>
-					<li><a href="wbase.php">Baza wiedzy</a></li>
+					<li><a href="miningpedia">Baza wiedzy</a></li>
 					<li><a href="games.php">Gry</a></li>
 					<li><a href="login.php">Login</a></li>
 					<li><a href="register.php">Rejestracja</a></li>
