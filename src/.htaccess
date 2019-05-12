@@ -7,3 +7,6 @@ Deny from all
 RewriteEngine on
 RewriteRule main index.php
 RewriteRule miningpedia wbase.php
+RewriteRule login login.php
+RewriteRule games games.php
+RewriteRule register register.php
