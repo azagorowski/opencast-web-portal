@@ -4,7 +4,7 @@
 	
 	if((!isset($_POST['login']))||(!isset($_POST['passw'])))
 	{
-		header('Location: login.php');
+		header('Location: login');
 		exit();
 	}
 	
