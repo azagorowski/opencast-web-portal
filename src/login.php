@@ -27,11 +27,11 @@
 			<nav>
 				<a href="#" id="menu-icon"></a>
 				<ul> <!-- unorder list -->
-					<li><a href="index.php">Strona Główna</a></li>
-					<li><a href="wbase.php">Baza wiedzy</a></li>
-					<li><a href="games.php">Gry</a></li>
-					<li><a href="login.php" class="current">Login</a></li>
-					<li><a href="register.php">Rejestracja</a></li>
+					<li><a href="main">Strona Główna</a></li>
+					<li><a href="miningpedia">Baza wiedzy</a></li>
+					<li><a href="games">Gry</a></li>
+					<li><a href="login" class="current">Login</a></li>
+					<li><a href="register">Rejestracja</a></li>
 				</ul>
 			</nav>
 		</div>
