@@ -66,7 +66,7 @@
 	echo "<p>Witaj ".$_SESSION['user'].' ! [<a href="logout.php"> Wyloguj się ! </a>]</p>';
 ?>
 <h2> Teraz możesz zagrać w grę: </h2>
-<h2><a href="gra.html">ZGADYWANIE HASŁA</a></h2>
+<h2><a href="gra.html">ZGADYWANIE HASŁA GÓRNICZEGO</a></h2>
 </section>
 <!--Koniec sekcji trzykolumnowej-->
 	<footer>
