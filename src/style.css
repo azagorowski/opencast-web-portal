@@ -204,10 +204,6 @@ aside {
 #first-article {
 	background-color: #aa6f3c;
 }
-#first-article:hover {
-	transition: 2s ;
-	background-color: #cc9966;
-}
 
 .inner-wrapper-2 {
 	float: left;
@@ -226,10 +222,6 @@ aside {
 	background-color: #2eb82e;
 }
 
-#article-1-3:hover {
-	transition: 2s ;
-	background-color: #7d7e67;
-}
 .iw-3 {
 	width: 33.333333333%;
 	float: left;
