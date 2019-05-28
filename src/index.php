@@ -4,8 +4,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- widok dla urzadzen mobilnych -->
 	<title>Portal górnictwa odkrywkowego</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<link rel="stylesheet" href="css/fontello.css"> <!-- zrodlo fontów -->
+	<!-- Source of fonts-->
+	<link rel="stylesheet" href="css/fontello.css"> 
 	<link href="css/font-awsome.min.css" rel="stylesheet"/>
+	<!-- SOCIAL MEDIA - source
+	<link rel="stylesheet" href="css-sm/fontello.css" type="text/css" />-->
+
+	
 	<link rel="shortcut icon" type="image/png" href="img/mineicon.png"/>
 	
 	<!-- Styles and scripts for slider -->
@@ -30,7 +35,7 @@
 			</nav>
 		</div>
 	</header>
-	<!-- Koniec sekcji header -->
+	<!-- End of header (section) -->
 	<section class="banner">
 		<div class="inner-banner">
 			<img src="img/mine_banner.PNG">
@@ -39,7 +44,7 @@
 			<img src="img/mine_banner_large.jpg">
 		</div>
 	</section>
-	<!-- Koniec sekcji banner -->
+	<!-- End of banner (section) -->
 	<section class="small-section-4" id="login">
 		<a href="login.php"><td><i class="icon-login"></i></td>
 		<h3>Login</h3></a>
@@ -56,7 +61,7 @@
 		<a href="games.php"><td><i class="icon-gamepad"></i></td>
 		<h3>Gry</h3></a>
 	</section>
-<!-- Koniec małych sekcji -->
+<!-- End of small sections -->
 	<section class="inner-wrapper">
 		<article id="article-1-3">
 			<!-- <img src="img/om-1.png"> -->
@@ -95,16 +100,17 @@
 		<p>Trzy największe kopalnie odkrywkowe na świecie to: Bingham Canyon (USA), Mirny (Rosja), Grasberg (Indonezja).</p>
 		</aside>
 	</section>
+<!-- End of 2-col section -->
 	<section class="social-media">
 		<div id="yt"></div>
 		<div id="fb"></div>
 		<div id="gplus"></div>
 		<div id="tw"></div>
 	</section>
-<!--Koniec sekcji dwukolumnowej-->
+<!-- End of SOCIAL MEDIA section-->
 	<footer>
 		<p>&copy; 2019 github.com/azagorowski</p>
 	</footer>
-<!--Koniec sekcji praw autorskich-->
+<!-- End of copyright section-->
 </body>
 </html>
