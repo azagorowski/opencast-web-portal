@@ -221,12 +221,64 @@ aside {
 #third-article {
 	background-color: #2eb82e;
 }
-
-.iw-3 {
-	width: 33.333333333%;
+/* SOCIAL MEDIA SECTION*/
+.social-media {
 	float: left;
+	width: 100%;
 	text-align: center;
 }
+
+#yt
+{
+	width: 25%;
+	height: 100px;
+	background-color: #d94348;
+	float: left;
+}
+#yt:hover
+{
+	background-color: #c83237;
+}
+
+#fb
+{
+	width: 25%;
+	height: 100px;
+	background-color: #4668b3;
+	float: left;
+}
+
+#fb:hover
+{
+	background-color: #3557a2;
+}
+
+#gplus
+{
+	width: 25%;
+	height: 100px;
+	background-color: #d95333;
+	float: left;
+}
+
+#gplus:hover
+{
+	background-color: #c84222;
+}
+
+#tw
+{
+	width: 25%;
+	height: 100px;
+	background-color: #3095d3;
+	float: left;
+}
+
+#tw:hover
+{
+	background-color: #2084c2;
+}
+
 /*Zmiana rozmiaru obrazka po najechaniu kursorem*/
 .second-aside {
 		overflow: hidden;

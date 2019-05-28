@@ -95,6 +95,12 @@
 		<p>Trzy największe kopalnie odkrywkowe na świecie to: Bingham Canyon (USA), Mirny (Rosja), Grasberg (Indonezja).</p>
 		</aside>
 	</section>
+	<section class="social-media">
+		<div id="yt"></div>
+		<div id="fb"></div>
+		<div id="gplus"></div>
+		<div id="tw"></div>
+	</section>
 <!--Koniec sekcji dwukolumnowej-->
 	<footer>
 		<p>&copy; 2019 github.com/azagorowski</p>
