@@ -228,6 +228,7 @@ aside {
 	text-align: center;
 }
 
+/*YouTube*/
 #yt {
 	width: 25%;
 	height: 100px;
@@ -238,6 +239,37 @@ aside {
 	background-color: #c83237;
 }
 
+#yt a {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#yt a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#yt a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+
+}
+/*Facebook*/
 #fb {
 	width: 25%;
 	height: 100px;
@@ -249,17 +281,80 @@ aside {
 	background-color: #3557a2;
 }
 
-#gplus {
+#fb a {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#fb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#fb a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+
+}
+/*LinkedIn*/
+#ln {
 	width: 25%;
 	height: 100px;
-	background-color: #d95333;
+	background-color: #0077B5;
 	float: left;
 }
 
-#gplus:hover {
-	background-color: #c84222;
+#ln:hover {
+	background-color: #3392C4;
 }
 
+#ln a {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#ln a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#ln a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+
+}
+
+/*Twitter*/
 #tw {
 	width: 25%;
 	height: 100px;
@@ -269,6 +364,37 @@ aside {
 
 #tw:hover {
 	background-color: #2084c2;
+}
+
+#tw a {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#tw a:hover {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+}
+
+#tw a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	line-height: 100%;
+
 }
 
 /*Zmiana rozmiaru obrazka po najechaniu kursorem*/
