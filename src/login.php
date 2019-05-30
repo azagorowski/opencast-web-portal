@@ -16,8 +16,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- widok dla urzadzen mobilnych -->
 	<title>Geologiczno-górniczy portal</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
-	<link rel="stylesheet" href="css/fontello.css"> <!-- zrodlo fontów -->
+	<!-- Source of fonts-->
+	<link rel="stylesheet" href="css/fontello.css"> 
 	<link href="css/font-awsome.min.css" rel="stylesheet"/>
+	<!-- SOCIAL MEDIA - source -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	
 	<link rel="shortcut icon" type="image/png" href="img/mineicon.png"/>
 </head>
 <body>
@@ -92,10 +96,17 @@
 		</aside>
 	</section>
 	
-<!--Koniec sekcji trzykolumnowej-->
+<!-- End of 2-col section -->
+	<section class="social-media">
+		<div id="yt"><a href="http://youtube.com"><td><i class="fab fa-youtube"></i></td></a></div>
+		<div id="ln"><a href="http://linkedin.com"><td><i class="fab fa-linkedin"></i></td></a></div>
+		<div id="fb"><a href="http://facebook.com"><td><i class="fab fa-facebook"></i></td></a></div>
+		<div id="tw"><a href="http://twitter.com"><td><i class="fab fa-twitter-square"></i></td></a></div>
+	</section>
+<!-- End of SOCIAL MEDIA section-->
 	<footer>
-		<p>&copy; 2019 github.com/azagorowski</p>
+		<p>&copy; 2019 <i class="fab fa-github"></i> github.com/azagorowski</p>
 	</footer>
-<!--Koniec sekcji praw autorskich-->
+<!-- End of copyright section-->
 </body>
 </html>
