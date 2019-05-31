@@ -84,7 +84,7 @@
 		</article>
 		<aside id="first-article">
 		<h2>(Aby zagrać w grę musisz być zalogowany)</h2>
-		<p>Nie masz jeszcze konta?<br/> Kliknij <a href="register.php"><b><i>TUTAJ</i></b></a> aby się zarejestrować.</p>
+		<p>Nie masz jeszcze konta?<br/> Kliknij <a href="register.php"><b><i>TUTAJ </i><i class="fas fa-external-link-alt"></i></b></a> aby się zarejestrować.</p>
 		</aside>
 	</section>
 	<section class="inner-wrapper-2">
