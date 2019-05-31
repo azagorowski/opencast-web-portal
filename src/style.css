@@ -422,16 +422,27 @@ footer p {
 	padding: 2%;
 	text-align: center;
 }
+
+#here {
+	font-size: 40px;
+	text-align: justify;
+	color: #49d049;
+}
+#here a:hover {
+	font-size: 40px;
+	text-align: justify;
+	color: #4d2600;
+}
 /*---------LOGIN.PHP---------*/
 input[type=text],
 input[type=password]
 {
-	width: 180px;
+	width: 200px;
 	background-color: #efefef;
 	border: 2px solid #555;
 	border-radius: 5px;
 	font-size: 20px;
-	margin-left: 36px;
+	margin-left: 50px;
 	padding: 0px 5px;
 	outline: none;
 	/*box-sizing: border-box;*/
