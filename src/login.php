@@ -13,7 +13,7 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="Utf-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- widok dla urzadzen mobilnych -->
+	<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- View for mobile devices -->
 	<title>Geologiczno-górniczy portal</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<!-- Source of fonts-->
@@ -40,7 +40,7 @@
 			</nav>
 		</div>
 	</header>
-	<!-- Koniec sekcji header -->
+	<!-- End of header (section) -->
 	<section class="banner">
 		<div class="inner-banner">
 			<img src="img/mine_banner.PNG">
@@ -49,7 +49,7 @@
 			<img src="img/mine_banner_large.jpg">
 		</div>
 	</section>
-	<!-- Koniec sekcji banner -->
+	<!-- End of banner (section) -->
 	<section class="small-section-4" id="login">
 		<a href="login"><td><i class="icon-login"></i></td>
 		<h3>Login</h3></a>
@@ -66,7 +66,7 @@
 		<a href="games"><td><i class="icon-gamepad"></i></td>
 		<h3>Gry</h3></a>
 	</section>
-<!-- Koniec małych sekcji -->
+	<!-- End of small sections -->
 	<section class="inner-wrapper">
 		<article id="article-1-3">
 		<form action="zaloguj.php" method="post">
@@ -97,17 +97,17 @@
 		</aside>
 	</section>
 	
-<!-- End of 2-col section -->
+	<!-- End of 2-col section -->
 	<section class="social-media">
 		<div id="yt"><a href="http://youtube.com"><td><i class="fab fa-youtube"></i></td></a></div>
 		<div id="ln"><a href="http://linkedin.com"><td><i class="fab fa-linkedin"></i></td></a></div>
 		<div id="fb"><a href="http://facebook.com"><td><i class="fab fa-facebook"></i></td></a></div>
 		<div id="tw"><a href="http://twitter.com"><td><i class="fab fa-twitter-square"></i></td></a></div>
 	</section>
-<!-- End of SOCIAL MEDIA section-->
+	<!-- End of SOCIAL MEDIA section-->
 	<footer>
 		<p>&copy; 2019 <i class="fab fa-github"></i> github.com/azagorowski</p>
 	</footer>
-<!-- End of copyright section-->
+	<!-- End of copyright section-->
 </body>
 </html>

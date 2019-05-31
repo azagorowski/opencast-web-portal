@@ -60,7 +60,7 @@
 		<a href="games"><td><i class="icon-gamepad"></i></td>
 		<h3>Gry</h3></a>
 	</section>
-<!-- End of small sections -->
+	<!-- End of small sections -->
 	<section class="inner-wrapper">
 		<article id="article-1-3">
 			<!-- <img src="img/om-1.png"> -->
